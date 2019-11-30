@@ -79,11 +79,6 @@ refs.stopBtn.addEventListener(
 //     this.isActive = true;
 
 //     this.colorId = setInterval(() => {
-//       // const randomColor = '#' + (((1 << 24) * Math.random()) | 0).toString(16);
-//       //   const randomColor = Math.random().toString(16);
-//       // let randomColor = getRandomColor();
-
-//       // console.log(randomColor);
 //       refs.body.style.backgroundColor = getRandomColor();
 //     }, 1000);
 //   },
